@@ -1,0 +1,4 @@
+﻿  pickpay.cpp
+C:\Users\inuya\source\repos\login\login\pickpay.cpp(62,12): warning C4101: 'm_row' :참조되지 않은 지역 변수입니다.
+C:\Users\inuya\source\repos\login\login\pickpay.cpp(255,12): warning C4101: 'm_row' :참조되지 않은 지역 변수입니다.
+  login.vcxproj -> C:\Users\inuya\source\repos\login\x64\Debug\login.exe
